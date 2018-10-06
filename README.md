@@ -1,5 +1,5 @@
 # Fossil Theme Black-Night-Star
-Black theme for FOSSIL, code-editor-like diffs.
+Black theme for FOSSIL (https://fossil-svn.org), code-editor-like diffs.
 
 ## Usage
 Simply drag the theme into the CSS section of your skins in the ADMIN-Panel.
