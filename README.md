@@ -1,2 +1,8 @@
 # Fossil---Theme---Black-Night-Star
-Fossil Theme
+Black theme for FOSSIL, code-editor-like diffs.
+
+## Usage
+Simply drag the theme into the CSS section of your skins in the ADMIN-Panel.
+
+## Other Informations
+This is a derivative of the "eagle"-standard theme which features a similar but flawed light-blue theme.
