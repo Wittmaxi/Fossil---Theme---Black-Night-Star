@@ -1,4 +1,4 @@
-# Fossil---Theme---Black-Night-Star
+# Fossil Theme Black-Night-Star
 Black theme for FOSSIL, code-editor-like diffs.
 
 ## Usage
